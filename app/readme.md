@@ -1,0 +1,6 @@
+- MIT App Inventor를 사용하여 제작하였습니다.
+- 음성의 경우 포함되어 있지 않으므로 직접 제작해서 넣어야합니다.
+- 이미지 출처.
+    - https://www.flaticon.com/kr/free-icon/lightbulb_702797?related_id=702814&origin=search
+    - https://www.flaticon.com/kr/free-icon/lightbulb_702814?related_id=702797&origin=search
+    - https://pixabay.com/ko/illustrations/%EB%8A%99%EC%9D%80-%EB%82%A8%EC%84%B1-%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80-%EB%85%B8%EC%9D%B8-1015484/
